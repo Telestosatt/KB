@@ -5,7 +5,7 @@ Added some neat and useful Colab notebooks like
 3. Folderclone
 4. Rclone
 
-Will add more ini future :)
+Will add more in future :)
 
 **Links to some useful guides**
 
